@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "name": "Undershirt-1",
+            "price": 100,
+            "reducedPrice": 50,
+            "id": "undershirt1",
+            "image": "product1.jpg",
+            "available": true,
+            "quantity": 20
+        },
+        {
+            "name": "Undershirt-2",
+            "price": 50,
+            "id": "undershirt2",
+            "image": "product2.jpg",
+            "available": true,
+            "quantity": 10
+        },
+        {
+            "name": "Undershirt-3",
+            "price": 120,
+            "id": "undershirt3",
+            "image": "product3.jpg",
+            "available": false,
+            "quantity": 0
+        },
+        {
+            "name": "Undershirt-4",
+            "price": 75,
+            "reducedPrice": 50,
+            "id": "undershirt4",
+            "image": "product4.jpg",
+            "available": true,
+            "quantity": 7
+        },
+        {
+            "name": "Undershirt-5",
+            "price": 90,
+            "id": "undershirt5",
+            "image": "product5.jpg",
+            "available": true,
+            "quantity": 30
+        },
+        {
+            "name": "Undershirt-6",
+            "price": 150,
+            "id": "undershirt6",
+            "image": "product6.jpg",
+            "available": true,
+            "quantity": 12
+        }
+    ]
+}

@@ -7,7 +7,9 @@
             "id": "undershirt1",
             "image": "product1.jpg",
             "available": true,
-            "quantity": 20
+            "quantity": 20,
+            "description": "This undershirt is made from cotton and very good for sport",
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
         },
         {
             "name": "Undershirt-2",
@@ -15,7 +17,9 @@
             "id": "undershirt2",
             "image": "product2.jpg",
             "available": true,
-            "quantity": 10
+            "quantity": 10,
+            "description": "This undershirt is made from synthetics and very good for walk",
+            "sizes": ["XS", "S", "L", "XL", "XXL"]
         },
         {
             "name": "Undershirt-3",
@@ -23,7 +27,9 @@
             "id": "undershirt3",
             "image": "product3.jpg",
             "available": false,
-            "quantity": 0
+            "quantity": 0,
+            "description": "This undershirt is made from synthetics and very good for walk",
+            "sizes": ["XS", "S", "M", "L", "XL"]
         },
         {
             "name": "Undershirt-4",
@@ -32,7 +38,9 @@
             "id": "undershirt4",
             "image": "product4.jpg",
             "available": true,
-            "quantity": 7
+            "quantity": 7,
+            "description": "This undershirt is made from cotton and very good for sport",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
         },
         {
             "name": "Undershirt-5",
@@ -40,7 +48,9 @@
             "id": "undershirt5",
             "image": "product5.jpg",
             "available": true,
-            "quantity": 30
+            "quantity": 30,
+            "description": "This undershirt is made from synthetics and very good for walk",
+            "sizes": ["XS", "S", "M", "L"]
         },
         {
             "name": "Undershirt-6",
@@ -48,7 +58,9 @@
             "id": "undershirt6",
             "image": "product6.jpg",
             "available": true,
-            "quantity": 12
+            "quantity": 12,
+            "description": "This undershirt is made from cotton and very good for sport",
+            "sizes": ["XS", "S", "M"]
         }
     ]
 }
